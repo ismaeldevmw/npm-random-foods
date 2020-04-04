@@ -1,0 +1,19 @@
+{
+  "name": "random-foods",
+  "version": "1.1.0",
+  "description": "Devuelve un valor aleatorio",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "list"
+  ],
+  "author": "Ismael López <lc.ismael@hotmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-mix": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
