@@ -13,7 +13,15 @@
   "author": "Ismael López <lc.ismael@hotmail.com>",
   "license": "MIT",
   "bin": {
-    "random-mix": "./bin/global.js"
+    "random-mix": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismaeldevmw/npm-random-foods.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ismaeldevmw/npm-random-foods/issues"
+  },
+  "homepage": "https://github.com/ismaeldevmw/npm-random-foods#readme"
 }
